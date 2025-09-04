@@ -1,4 +1,4 @@
-Copyright (c) 2025 [Tuo Nome]
+Copyright (c) 2025 Melissa Ferretti
 
 This dataset is made available under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
 
